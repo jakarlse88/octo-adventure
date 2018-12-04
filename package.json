@@ -1,0 +1,14 @@
+{
+  "name": "users",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jakarlse88/octo-adventure.git",
+  "author": "Jon <karlsen.jonarild@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2",
+    "lodash": "^4.17.11"
+  }
+}
